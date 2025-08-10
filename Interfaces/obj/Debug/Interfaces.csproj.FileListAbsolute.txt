@@ -1,0 +1,6 @@
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Interfaces\obj\Debug\Interfaces.pdb

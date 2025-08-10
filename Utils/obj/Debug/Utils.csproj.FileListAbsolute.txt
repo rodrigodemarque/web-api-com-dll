@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\Utils.dll
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\Utils.pdb
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\Interfaces.dll
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\log4net.dll
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\Interfaces.pdb
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\log4net.pdb
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\log4net.xml
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\obj\Debug\Utils.csproj.Up2Date
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\obj\Debug\Utils.dll
+C:\Users\rodri\OneDrive\Documentos\Visual Studio 2022\Curso Moura\web_api - com DLLs\Utils\obj\Debug\Utils.pdb
