@@ -32,27 +32,27 @@ Configure a string de conexão no arquivo Web.config apontando para seu banco lo
 Pressione F5 para iniciar o servidor local
 
 📡 Endpoints Disponíveis
-Método	Endpoint	Descrição
-GET	/api/carros	Retorna todos os carros
-GET	/api/carros/{id}	Retorna carro pelo ID
-GET	/api/carros/nome	Retorna carros pelo Nome
-POST	/api/carros	Cria um novo carro
-PUT	/api/carros/{id}	Atualiza um carro existente
-DELETE	/api/carros/{id}	Remove um carro
+Método	Endpoint	Descrição  
+GET	/api/carros	Retorna todos os carros  
+GET	/api/carros/{id}	Retorna carro pelo ID  
+GET	/api/carros/nome	Retorna carros pelo Nome  
+POST	/api/carros	Cria um novo carro  
+PUT	/api/carros/{id}	Atualiza um carro existente  
+DELETE	/api/carros/{id}	Remove um carro  
 
-📂 Estrutura do Projeto
+📂 Estrutura do Projeto  
 bash
 Copiar
 Editar
-/web-api-com-dll
-│── /Controllers       → Controladores da API
-│── /Models            → Modelos de dados
-│── /DAL               → Data Access Layer (DLL)
-│── /BLL               → Business Logic Layer (DLL)
-│── /bin               → Arquivos compilados
-│── Web.config         → Configurações da aplicação
-│── web-api.sln        → Arquivo da solução
-🛠 Boas Práticas no Repositório
+/web-api-com-dll  
+│── /Controllers       → Controladores da API  
+│── /Models            → Modelos de dados  
+│── /DAL               → Data Access Layer (DLL)  
+│── /BLL               → Business Logic Layer (DLL)  
+│── /bin               → Arquivos compilados  
+│── Web.config         → Configurações da aplicação  
+│── web-api.sln        → Arquivo da solução  
+🛠 Boas Práticas no Repositório  
 O arquivo .gitignore foi configurado para ignorar binários, arquivos temporários e configurações locais do Visual Studio.
 
 Apenas código-fonte e arquivos essenciais estão versionados.
